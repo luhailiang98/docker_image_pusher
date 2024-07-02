@@ -3,9 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-node:16.19.1
-nginx:alpine
-mongo:latest
-mysql:8
-redis:5-alpine
-emqx/emqx:4.2.14
+openjdk:8
