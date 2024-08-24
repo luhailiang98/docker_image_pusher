@@ -4,10 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #willfarrell/crontab:latest
-redis:7.0.0
-mysql:5.7
-emqx:5.1
-openjdk:8-jre
-nginx:stable
-tdengine/tdengine:2.6.0.12
-zlmediakit/zlmediakit:master
+mysql:5.7.20
+tomcat:8.5
