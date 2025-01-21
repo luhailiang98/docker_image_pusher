@@ -6,4 +6,5 @@
 #willfarrell/crontab:latest
 #mysql:5.7.20
 #tomcat:8.5
-node:16.19.1-slim
+#node:16.19.1-slim
+nvidia/cuda:12.1.0-base-ubuntu22.04
