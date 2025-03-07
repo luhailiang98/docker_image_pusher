@@ -11,4 +11,5 @@
 #python:3.10-slim
 #snowdreamtech/frpc:latest
 #--platform=linux/arm/v7 nodered/node-red:4.0.9-22
-emqx:latest
+#emqx:latest
+tdengine/tdengine:3.0.7.1
