@@ -13,5 +13,6 @@
 #--platform=linux/arm/v7 nodered/node-red:4.0.9-22
 #emqx:latest
 #tdengine/tdengine:3.0.7.1
-redis:7.2.5
-mysql:5.7.44
+#redis:7.2.5
+#mysql:5.7.44
+vllm/vllm-openai:v0.7.2
