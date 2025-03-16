@@ -15,4 +15,7 @@
 #tdengine/tdengine:3.0.7.1
 #redis:7.2.5
 #mysql:5.7.44
-vllm/vllm-openai:v0.7.2
+#vllm/vllm-openai:v0.7.2
+guiji2025/fish-speech-ziming
+guiji2025/fun-asr
+guiji2025/heygem.ai
