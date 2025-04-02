@@ -19,5 +19,5 @@
 #guiji2025/fish-speech-ziming
 #guiji2025/fun-asr
 #guiji2025/heygem.ai
-#snowdreamtech/frps:0.45.0
-openjdk:17
+snowdreamtech/frpc:0.45.0
+#openjdk:17
