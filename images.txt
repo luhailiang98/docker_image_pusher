@@ -21,4 +21,4 @@
 #guiji2025/heygem.ai
 #snowdreamtech/frpc:0.45.0
 #openjdk:17
-thingsboard/tb-postgres
+thingsboard/tb-postgres:latest
