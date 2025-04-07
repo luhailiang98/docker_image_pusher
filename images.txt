@@ -19,5 +19,6 @@
 #guiji2025/fish-speech-ziming
 #guiji2025/fun-asr
 #guiji2025/heygem.ai
-snowdreamtech/frpc:0.45.0
+#snowdreamtech/frpc:0.45.0
 #openjdk:17
+thingsboard/tb-postgres
