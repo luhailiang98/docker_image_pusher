@@ -20,4 +20,5 @@
 #guiji2025/fun-asr
 #guiji2025/heygem.ai
 #snowdreamtech/frpc:0.45.0
-thingsboard/tb-postgres:3.9.1
+#thingsboard/tb-postgres:3.9.1
+redis:5
