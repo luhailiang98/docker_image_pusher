@@ -21,4 +21,5 @@
 #guiji2025/heygem.ai
 #snowdreamtech/frpc:0.45.0
 #thingsboard/tb-postgres:3.9.1
-redis:5
+#redis:5
+tomcat:8.5.100-jre8
