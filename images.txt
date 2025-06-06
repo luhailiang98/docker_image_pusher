@@ -24,4 +24,5 @@
 #redis:5
 #tomcat:8.5.100-jre8
 #node:18-bookworm
-nodered/node-red:latest
+#nodered/node-red:latest
+vllm/vllm-openai:v0.8.5
