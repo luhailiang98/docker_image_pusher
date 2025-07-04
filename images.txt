@@ -27,4 +27,5 @@
 #nodered/node-red:latest
 #vllm/vllm-openai:v0.8.5
 #influxdb:1.8
---platform=linux/arm64 houwm/jdk8
+#--platform=linux/arm64 houwm/jdk8
+balenalib/aarch64-node:16.19-sid
