@@ -35,4 +35,4 @@
 #--platform=linux/arm64 arm64v8/nginx:alpine
 #--platform=linux/arm64 arm64v8/mongo:5.0
 #--platform=linux/arm64 arm64v8/influxdb:1.8
-python:3.8-slim
+python:3.10
