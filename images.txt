@@ -38,4 +38,4 @@
 #--platform=linux/arm64 arm64v8/influxdb:1.8
 #python:3.10
 #ubuntu:20.04
---platform=linux/arm64 minio/minio:RELEASE.2022-01-04T07-41-07Z
+--platform=linux/arm64 minio/minio:RELEASE.2021-04-22T15-44-28Z
