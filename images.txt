@@ -38,8 +38,8 @@
 #--platform=linux/arm64 arm64v8/influxdb:1.8
 #python:3.10
 #ubuntu:20.04
-#--platform=linux/arm64 minio/minio:RELEASE.2021-04-22T15-44-28Z
+minio/minio:RELEASE.2022-01-04T07-41-07Z
 #dm8:dm8_20250206_rev257733_x86_rh6_64
 #mongo:4.0
 #openresty/openresty:1.27.1.2-bookworm-fat
---platform=linux/arm64 nodered/node-red:4.1.2-22
+nodered/node-red:4.1.2-22
