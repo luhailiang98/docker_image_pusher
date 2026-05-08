@@ -43,4 +43,4 @@
 #mongo:4.0
 #openresty/openresty:1.27.1.2-bookworm-fat
 #nodered/node-red:4.1.2-22
-emqx/emqx:3.2.7
+emqx/emqx:4.2.14
