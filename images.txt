@@ -46,4 +46,4 @@
 #emqx/emqx:4.2.14
 #ringcentral/jdk:21
 #ubuntu:24.04
-vllm/vllm-openai:latest
+vllm/vllm-openai:v0.24.0
