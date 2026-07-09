@@ -44,5 +44,6 @@
 #openresty/openresty:1.27.1.2-bookworm-fat
 #nodered/node-red:4.1.2-22
 #emqx/emqx:4.2.14
-ringcentral/jdk:21
-ubuntu:24.04
+#ringcentral/jdk:21
+#ubuntu:24.04
+vllm/vllm-openai:latest
