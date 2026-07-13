@@ -47,4 +47,5 @@
 #ringcentral/jdk:21
 #ubuntu:24.04
 #vllm/vllm-openai:v0.24.0-cu129-ubuntu2404
-vllm/vllm-openai:v0.24.0
+#vllm/vllm-openai:v0.24.0
+nvidia/cuda:13.0.2-devel-ubuntu24.04
