@@ -49,4 +49,9 @@
 #vllm/vllm-openai:v0.24.0-cu129-ubuntu2404
 #vllm/vllm-openai:v0.24.0
 #nvidia/cuda:13.0.2-devel-ubuntu24.04
-nvidia/cuda:12.8.0-cudnn-runtime-ubuntu24.04
+#nvidia/cuda:12.8.0-cudnn-runtime-ubuntu24.04
+mysql:8.4.8
+redis:8.8.0
+apache/kafka:4.3.1
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+nacos/nacos-server:v2.5.3
