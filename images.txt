@@ -55,4 +55,5 @@
 #apache/kafka:4.3.1
 #minio/minio:RELEASE.2025-09-07T16-13-09Z
 #nacos/nacos-server:v2.5.3
-zlmediakit/zlmediakit:master
+#zlmediakit/zlmediakit:master
+sonatype/nexus3:3.95.0
