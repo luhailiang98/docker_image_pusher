@@ -56,4 +56,5 @@
 #minio/minio:RELEASE.2025-09-07T16-13-09Z
 #nacos/nacos-server:v2.5.3
 #zlmediakit/zlmediakit:master
-louislam/uptime-kuma:2
+#louislam/uptime-kuma:2
+nacos/nacos-server:v3.0.2
