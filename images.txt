@@ -57,5 +57,4 @@
 #nacos/nacos-server:v2.5.3
 #zlmediakit/zlmediakit:master
 #louislam/uptime-kuma:2
-#nacos/nacos-server:v3.0.2
 tdengine/tdengine:3.1.1.12
